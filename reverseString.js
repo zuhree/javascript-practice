@@ -5,5 +5,6 @@ function reverseString(name) {
   }
   return newName;
 }
-let name = reverseString("Zuhree");
+let myName = reverseString("Zuhree");
 console.log(myName);
+
